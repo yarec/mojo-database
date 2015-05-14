@@ -10,7 +10,7 @@
 		73317EE31B04B74D007C32B0 /* MojoDB.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EE21B04B74D007C32B0 /* MojoDB.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317EE91B04B74D007C32B0 /* MojoDB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317EDD1B04B74D007C32B0 /* MojoDB.framework */; };
 		73317EF01B04B74D007C32B0 /* MojoDBTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EEF1B04B74D007C32B0 /* MojoDBTests.m */; };
-		73317F1A1B04B767007C32B0 /* JSONModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EFB1B04B766007C32B0 /* JSONModel.h */; };
+		73317F1A1B04B767007C32B0 /* JSONModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EFB1B04B766007C32B0 /* JSONModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317F1B1B04B767007C32B0 /* JSONModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EFC1B04B766007C32B0 /* JSONModel.m */; };
 		73317F1C1B04B767007C32B0 /* JSONModelArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317EFD1B04B766007C32B0 /* JSONModelArray.h */; };
 		73317F1D1B04B767007C32B0 /* JSONModelArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317EFE1B04B766007C32B0 /* JSONModelArray.m */; };
@@ -20,7 +20,7 @@
 		73317F211B04B767007C32B0 /* JSONModelError.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F021B04B766007C32B0 /* JSONModelError.m */; };
 		73317F221B04B767007C32B0 /* NSArray+JSONModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F041B04B766007C32B0 /* NSArray+JSONModel.h */; };
 		73317F231B04B767007C32B0 /* NSArray+JSONModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F051B04B766007C32B0 /* NSArray+JSONModel.m */; };
-		73317F241B04B767007C32B0 /* JSONModelLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F061B04B766007C32B0 /* JSONModelLib.h */; };
+		73317F241B04B767007C32B0 /* JSONModelLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F061B04B766007C32B0 /* JSONModelLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317F251B04B767007C32B0 /* JSONAPI.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F081B04B766007C32B0 /* JSONAPI.h */; };
 		73317F261B04B767007C32B0 /* JSONAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F091B04B766007C32B0 /* JSONAPI.m */; };
 		73317F271B04B767007C32B0 /* JSONHTTPClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F0A1B04B766007C32B0 /* JSONHTTPClient.h */; };
@@ -31,11 +31,11 @@
 		73317F2C1B04B767007C32B0 /* JSONKeyMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F101B04B766007C32B0 /* JSONKeyMapper.m */; };
 		73317F2D1B04B767007C32B0 /* JSONValueTransformer.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F111B04B766007C32B0 /* JSONValueTransformer.h */; };
 		73317F2E1B04B767007C32B0 /* JSONValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F121B04B766007C32B0 /* JSONValueTransformer.m */; };
-		73317F2F1B04B767007C32B0 /* AppDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F141B04B766007C32B0 /* AppDatabase.h */; };
+		73317F2F1B04B767007C32B0 /* AppDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F141B04B766007C32B0 /* AppDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317F301B04B767007C32B0 /* AppDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F151B04B766007C32B0 /* AppDatabase.m */; };
-		73317F311B04B767007C32B0 /* MojoDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F161B04B766007C32B0 /* MojoDatabase.h */; };
+		73317F311B04B767007C32B0 /* MojoDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F161B04B766007C32B0 /* MojoDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317F321B04B767007C32B0 /* MojoDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F171B04B766007C32B0 /* MojoDatabase.m */; };
-		73317F331B04B767007C32B0 /* MojoModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F181B04B766007C32B0 /* MojoModel.h */; };
+		73317F331B04B767007C32B0 /* MojoModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73317F181B04B766007C32B0 /* MojoModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73317F341B04B767007C32B0 /* MojoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 73317F191B04B766007C32B0 /* MojoModel.m */; };
 		73317F361B04BA41007C32B0 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 73317F351B04BA41007C32B0 /* libsqlite3.dylib */; };
 /* End PBXBuildFile section */
@@ -248,17 +248,17 @@
 				73317F1E1B04B767007C32B0 /* JSONModelClassProperty.h in Headers */,
 				73317F311B04B767007C32B0 /* MojoDatabase.h in Headers */,
 				73317F2F1B04B767007C32B0 /* AppDatabase.h in Headers */,
+				73317F1A1B04B767007C32B0 /* JSONModel.h in Headers */,
+				73317F331B04B767007C32B0 /* MojoModel.h in Headers */,
 				73317F291B04B767007C32B0 /* JSONModel+networking.h in Headers */,
 				73317F221B04B767007C32B0 /* NSArray+JSONModel.h in Headers */,
 				73317F2B1B04B767007C32B0 /* JSONKeyMapper.h in Headers */,
 				73317F251B04B767007C32B0 /* JSONAPI.h in Headers */,
-				73317F1A1B04B767007C32B0 /* JSONModel.h in Headers */,
 				73317F271B04B767007C32B0 /* JSONHTTPClient.h in Headers */,
 				73317EE31B04B74D007C32B0 /* MojoDB.h in Headers */,
 				73317F201B04B767007C32B0 /* JSONModelError.h in Headers */,
 				73317F2D1B04B767007C32B0 /* JSONValueTransformer.h in Headers */,
 				73317F1C1B04B767007C32B0 /* JSONModelArray.h in Headers */,
-				73317F331B04B767007C32B0 /* MojoModel.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
