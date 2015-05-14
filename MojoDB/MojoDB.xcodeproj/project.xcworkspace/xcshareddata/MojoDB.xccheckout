@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6C80420-4BFD-41ED-B93B-578BFC3936A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29EF874C139CC1677969075901B9AE76ACE0DF5B</key>
+		<string>https://github.com/yarec/mojo-database</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MojoDB/MojoDB.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29EF874C139CC1677969075901B9AE76ACE0DF5B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yarec/mojo-database</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29EF874C139CC1677969075901B9AE76ACE0DF5B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29EF874C139CC1677969075901B9AE76ACE0DF5B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mojo-database</string>
+		</dict>
+	</array>
+</dict>
+</plist>

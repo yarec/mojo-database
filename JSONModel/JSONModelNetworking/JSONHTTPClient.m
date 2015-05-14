@@ -15,6 +15,7 @@
 // The MIT License in plain English: http://www.touch-code-magazine.com/JSONModel/MITLicense
 
 #import "JSONHTTPClient.h"
+#import "UIKit/UIKit.h"
 
 #pragma mark - constants
 NSString* const kHTTPMethodGET = @"GET";
