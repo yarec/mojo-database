@@ -7,6 +7,7 @@
 //
 
 #import "MojoDatabase.h"
+#import <sqlite3.h>
 
 @interface MojoDatabase(PrivateMethods)
 -(void)open;
@@ -28,6 +29,7 @@
 @synthesize pathToDatabase;
 @synthesize logging;
 
+sqlite3 *database;
 
 #pragma mark - Init Methods
 

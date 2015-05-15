@@ -7,12 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <sqlite3.h>
 
 @interface MojoDatabase : NSObject {
 	NSString *pathToDatabase;
 	BOOL logging;
-	sqlite3 *database;
 }
 
 @property (nonatomic, retain) NSString *pathToDatabase;
