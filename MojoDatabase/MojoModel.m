@@ -59,7 +59,9 @@ static NSMutableDictionary *tableCache = nil;
 #pragma mark - Class Methods - General
 
 +(NSString *)tableName {
-  return NSStringFromClass([self class]);
+//  return NSStringFromClass([self class]);
+    NSString *s = NSStringFromClass(self);
+    return [[s componentsSeparatedByString:@"."] objectAtIndex:1];
 }
 
 -(id)init
